@@ -1,5 +1,5 @@
 # Databases-and-Computational-Tools-Used-in-Big-Data
-My homework solutions (in SSH/Linux/Bash via TAMU HRPC) of the Ph.D. level Statistics course (STAT 624) in Texas A&amp;M University
+My homework solutions (in SSH/Bash/R/C/SQL/Python) of the Ph.D. level Statistics course (STAT 624) in Texas A&amp;M University
 
 Toipcs Covered:
 
