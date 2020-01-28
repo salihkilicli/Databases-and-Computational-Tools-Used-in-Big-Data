@@ -16,4 +16,4 @@ Toipcs Covered:
 11) Parallel R
 12) Python
 
-My homework average was 100% in the course, but if you think there is an easier/faster way to solve some of the problems, please let me know. Unfortunately, I have no permission to post the questions.
+All of the solutions are in pdf format, and most of the codes are written in Bash, C, R, SQL or Python. My homework average was 100% in the course, but if you think there is an easier/faster way to solve some of the problems, please let me know. Unfortunately, I have no permission to post the questions.
