@@ -16,4 +16,4 @@ Toipcs Covered:
 11) Parallel R
 12) Python
 
-My homework average was 100% in the course, but if you think there is an easier/faster way to solve some of the problems, please let me know. Unfortunately I have no permission to post the questions.
+My homework average was 100% in the course, but if you think there is an easier/faster way to solve some of the problems, please let me know. Unfortunately, I have no permission to post the questions.
